@@ -2,6 +2,7 @@
 title: 221208Welcome
 tags: Java Javascript
 ---
+![이미지등록](/assets/images/3.PNG)
 
 '''java
 

@@ -201,7 +201,7 @@ exclude:
   - /test
   - /vendor
 
-defaults:
+defaults: #경로를 의미함
   - scope:
       path: ""
       type: posts
@@ -214,6 +214,10 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+  - scope:
+      path: "assets/images"
+      image : true
+      
 
 
 ## => Plugins
